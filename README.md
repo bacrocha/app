@@ -10,7 +10,7 @@
 
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Funcionalidades Implementadas](#funcionalidades-implementadas)
-- [Telas de Saídas](#telas-de-saídas)
+- [Interface Web](#interface-web)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Utilizar](#como_utilizar)
 - [Resultados e Conclusão](#resultados-e-conclusão)
@@ -32,15 +32,21 @@ Este projeto é meu primeiro trabalho independente em automação de dados e rep
 - **📊 Saída dos dados em Excel e CSV:** Os dados extraídos são organizados e salvos automaticamente em planilhas Excel e arquivos CSV, facilitando o uso posterior e integrando-se facilmente a outros sistemas.
 - **📝 Tratamento de erros e logs:** Qualquer erro encontrado durante o processamento é registrado no arquivo de saída, permitindo o acompanhamento do que foi ou não processado corretamente.
 
-## <a name="telas-de-saídas"></a> 🖥️ Telas de Saídas
+## <a name="interface-web"></a> 🌐 Interface Web
 
-Para ilustrar o funcionamento do script, veja o vídeo de execução abaixo:
+Para facilitar o acesso e a utilização da ferramenta sem a necessidade de configuração ou IDE, o projeto conta com uma interface gráfica hospedada na web. Você pode acessar a aplicação diretamente no link abaixo:
 
-XXXX
+[**Acesse a Interface Web do Projeto**](https://seulink.streamlit.app)
 
-O vídeo demonstra o processo completo, desde a seleção dos arquivos PDF até a exportação dos dados para os formatos Excel e CSV. 
-Com isso, você pode visualizar como o script automatiza a extração de dados de relatórios, tornando a tarefa mais rápida e eficiente.
+A interface permite que os usuários interajam com a ferramenta de forma intuitiva, realizando a extração de dados dos relatórios PDF de maneira simples e rápida, tudo diretamente pelo navegador.
 
+### Funcionalidades da Interface Web
+
+- **Upload de Arquivos:** Envie seus relatórios PDF diretamente pela interface.
+- **Visualização de Resultados:** Acompanhe o progresso da extração e visualize os dados processados sem precisar sair da interface.
+- **Fácil Navegação:** A interface foi projetada para ser simples e intuitiva, para que qualquer usuário possa utilizar sem dificuldades.
+
+A interface web oferece uma maneira prática de utilizar a solução de automação sem precisar de configurações adicionais. Aproveite a agilidade que ela proporciona!
 ## <a name="tecnologias-utilizadas"></a> 🛠️ Tecnologias Utilizadas
 
 - **🐍 Python 3**: Linguagem usada para desenvolver o script de automação.
