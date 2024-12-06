@@ -36,7 +36,7 @@ Este projeto é meu primeiro trabalho independente em automação de dados e rep
 
 Para facilitar o acesso e a utilização da ferramenta sem a necessidade de configuração ou IDE, o projeto conta com uma interface gráfica hospedada na web. Você pode acessar a aplicação diretamente no link abaixo:
 
-[**Acesse a Interface Web do Projeto**](https://automacao-extracao-relatorios-ocupacionais-baa.streamlit.app/)
+[**Acesse a Interface Web do Projeto**]
 
 A interface permite que os usuários interajam com a ferramenta de forma intuitiva, realizando a extração de dados dos relatórios PDF de maneira simples e rápida, tudo diretamente pelo navegador.
 
